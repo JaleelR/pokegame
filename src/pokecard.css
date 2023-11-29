@@ -1,0 +1,22 @@
+b{ 
+    color: brown;
+}
+
+.card {
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(151, 151, 141);
+    border: 0px solid black;
+    border-radius: 20%;
+width: 200px;
+height: 200px;
+margin: 2%;
+}
+
+
+
+.pimg {
+height: 80%;
+}
